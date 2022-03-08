@@ -3,6 +3,7 @@
   ### Download JSON File From FireBase And Place It in android/app
   ### npm install // in BackEnd Folder For Node Packages
   ### Download Cloud Messaging JSON File From FireBase And Place in Back End Folder And paste Your Configuration
+  ### You will Find Cloud msging file in project setting ServiceAndAccount
   
 # ScreenShot
 ## Home Page 
